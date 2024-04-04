@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors-ML-
-I will be creating a program to play Rock, Paper, Scissors. A program that picks at random will usually win 50% of the time.
+This is the boilerplate for the Rock Paper Scissors project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
